@@ -1,0 +1,15 @@
+C:\PENTEST\BitwiseORCalc\bin\Release\net6.0\BitwiseORCalc.exe
+C:\PENTEST\BitwiseORCalc\bin\Release\net6.0\BitwiseORCalc.deps.json
+C:\PENTEST\BitwiseORCalc\bin\Release\net6.0\BitwiseORCalc.runtimeconfig.json
+C:\PENTEST\BitwiseORCalc\bin\Release\net6.0\BitwiseORCalc.dll
+C:\PENTEST\BitwiseORCalc\bin\Release\net6.0\BitwiseORCalc.pdb
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.csproj.AssemblyReference.cache
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.AssemblyInfoInputs.cache
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.AssemblyInfo.cs
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.csproj.CoreCompileInputs.cache
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.dll
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\refint\BitwiseORCalc.dll
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.pdb
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\BitwiseORCalc.genruntimeconfig.cache
+C:\PENTEST\BitwiseORCalc\BitwiseORCalc\obj\Release\net6.0\ref\BitwiseORCalc.dll

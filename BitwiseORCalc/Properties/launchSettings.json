@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BitwiseORCalc": {
+      "commandName": "Project",
+      "commandLineArgs": "msPKI-Certificate-Name-Flag -1509949440"
+    }
+  }
+}
